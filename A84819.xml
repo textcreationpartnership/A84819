@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is a vvarning to all that profess Christianity and others. To beware of covetousness, which is idolatry. By G. Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84819</idno>
+            <idno type="STC">Wing F1933B</idno>
+            <idno type="STC">ESTC R213751</idno>
+            <idno type="EEBO-CITATION">99826053</idno>
+            <idno type="PROQUEST">99826053</idno>
+            <idno type="VID">172629</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172629)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1759:15, 2641:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is a vvarning to all that profess Christianity and others. To beware of covetousness, which is idolatry. By G. Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing; dated at end: The 5th moneth, 1679.</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 1759 as Wing (2nd ed.) F1933A.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of the original: Harvard University Library and Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian ethics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172629:1" rendition="simple:additions"/>
+            <head>This is A WARNING To ALL that Profeſs Chriſtianity And OTHERS. To Beware of Covetouſ<g ref="char:EOLhyphen"/>neſs, which is Idolatry.</head>
+            <byline>By<hi> G. Fox.</hi>
+            </byline>
+            <p>ALL People that do profeſs Chriſt and Chri<g ref="char:EOLhyphen"/>ſtianity, this is a Warning to you all, to take heed of <hi>Covetouſneſs;</hi> for <hi>Covetouſneſs</hi> was forbidden both in the Old Teſtament and the New, and by the Law of God, and by Chriſt and his Apo<g ref="char:EOLhyphen"/>ſtles.</p>
+            <p>
+               <pb n="2" facs="tcp:172629:2"/>
+For the Apoſtle ſaith, <hi>Covetouſneſs is Idolatry;</hi> and it was forbidden both to the Rulers, Prieſts, Teach<g ref="char:EOLhyphen"/>ers and People in the old and new Teſtament, that Idolatrous Practice.</p>
+            <p>And Chriſt ſaith, <hi>It is one of thoſe Evils that defiles a Man, that comes out of him.</hi>
+            </p>
+            <p>And the Lord ſaid in his Law and Ten Command<g ref="char:EOLhyphen"/>ments, <hi>Thou ſhalt not Covet thy Neighbour's Houſe, thou ſhalt not Covet thy Neighbour's Wife, nor his Man Ser<g ref="char:EOLhyphen"/>vant, nor his Maid Servant, nor his Ox, nor his Aſs, nor any thing that is thy Neighbour's.</hi>
+            </p>
+            <p>Now, if this Covetous Spirit be kept down, then the Idolater is kept down, and that Idol out of the Heart.</p>
+            <p>Alſo <hi>Theft</hi> and <hi>Stealing</hi> was forbidden in the old Covenant, and ſo it is in the new; and all are to la<g ref="char:EOLhyphen"/>bour in the thing that is Good.</p>
+            <p>Likewiſe <hi>Adultery</hi> was forbidden in the old Cove<g ref="char:EOLhyphen"/>nant, and ſo it is in the new; yea, and more than outward Adultery: For, <hi>He that looks after a Woman to luſt after her,</hi> in the new Covenant, Chriſt ſaith, <hi>he hath committed Adultery with her already in his Heart.</hi>
+            </p>
+            <p>And <hi>Bearing Falſe Witneſs againſt his Neighbour</hi> was forbidden in the old Covenant; ſo it is in the new? For all are to ſpeak Truth to their Neighbour, and lye not.</p>
+            <p>And the Lord ſaith in the old Teſtament, <hi>Thou ſhalt not Kill.</hi>
+            </p>
+            <p>The Apoſtle ſaith in the new Covenant, <hi>They did not wreſtle with Fleſh and Blood; and their Weapons were not Carnal, but Spiritual:</hi> and Chriſt forbids Wrath in the new Covenant, &amp;c.</p>
+            <p>
+               <pb n="3" facs="tcp:172629:2"/>
+And <hi>Samuel</hi> who was a Judge and a Prophet, who judged <hi>Iſreal</hi> all the dayes of his Life, 1 <hi>Sam.</hi> 7.15. and 1 <hi>Sam.</hi> 12.3. Samuel ſaid, <hi>I am old &amp; grey-headed, and I have walked before you from my Childhood unto this day; whoſe Ox or Aſs have I taken? or whom have I de<g ref="char:EOLhyphen"/>frauded or oppreſſed? or of whoſe hand have I received a<g ref="char:EOLhyphen"/>ny Birbe to blind my Eyes therewith?</hi> And the Children of <hi>Iſreal</hi> anſwered and ſaid, <hi>Thou haſt not frauded nor oppreſſed any of us, neither haſt thou received ought at any man's hand, &amp;c.</hi>
+            </p>
+            <p>Now here was a Prophet, and a Prieſt, and a Judge clear from that Idolatry of <hi>Covetouſneſs;</hi> and hath not he out-ſtripped many of them which now call them<g ref="char:EOLhyphen"/>ſelves Prophets and Prieſts, Judges and Teachers, that profeſs the new Covenant?</p>
+            <p>And <hi>David</hi> ſaid, <hi>Encline my Heart unto thy Teſtimo<g ref="char:EOLhyphen"/>nies, and not to Covetouſneſs,</hi> Pſalm 119.36.</p>
+            <p>So if all who profeſs <hi>Chriſtianity,</hi> their Hearts were enclined to the Teſtimony of Jeſus, the Spirit of Pro<g ref="char:EOLhyphen"/>phecy, that would keep down the Earthly Spirit of Covetouſneſs, which is Idolatry.</p>
+            <p>And as <hi>Solomon</hi> ſaith in <hi>Prov.</hi> 28.16. <hi>He that Hateth</hi> Covetouſneſs; <hi>ſhall prolong his dayes.</hi> Then he that loveth Covetouſneſs, which is Idolatry, ſhall not pro<g ref="char:EOLhyphen"/>long his days.</p>
+            <p>And <hi>Jeremiah</hi> cryed out againſt the <hi>Jews</hi> in the old Covenant, and ſaid, <hi>From the Greateſt to the Leaſt of them, the Prophet and the Prieſt, every one of them was given to Covetouſneſs, and to deal Falſly,</hi> Jer. 6.13. and <hi>Iſa.</hi> 56.11.</p>
+            <p>And yet theſe Prieſts and Prophets, from the great<g ref="char:EOLhyphen"/>eſt
+<pb n="4" facs="tcp:172629:3"/>to the leaſt of them, could make a Profeſſion of the old Covenant.</p>
+            <p>And let the Prieſts, and Prophets, and People, that profeſs the new Covenant, ſee if they be not given to this Idolatry of Covetouſneſs, which was hated and forbidden of God and Chriſt, and his Peo<g ref="char:EOLhyphen"/>ple, Prophets and Apoſtles.</p>
+            <p>And <hi>Jeremiah</hi> further cryes out againſt the <hi>Jews</hi> in <hi>Jer.</hi> 22.17. and ſaid unto them, <hi>Thine Eyes and thine Heart are for thy Covetouſneſs, and for ſhedding of Inno<g ref="char:EOLhyphen"/>cent Blood, and for Oppreſſion, and for Violence.</hi>
+            </p>
+            <p>Now this was the <hi>Jews</hi> Condition in the old Cove<g ref="char:EOLhyphen"/>nant, when they forſook God, and his Law and Spirit.</p>
+            <p>And now let all who profeſs themſelves <hi>Chriſtians,</hi> in whom Chriſt doth not Reign, which are not gui<g ref="char:EOLhyphen"/>ded by the Spirit of God, as the Prophets and Apo<g ref="char:EOLhyphen"/>ſtles were, ſearch and try themſelves, if the Fruits of their Eyes and Hearts, and the Fruits of the Spirit that was in the <hi>Jews,</hi> doth not appear and is manifeſt in them, a Spirit that luſts to do Violence and Oppreſ<g ref="char:EOLhyphen"/>ſion, and a ſpirit of Covetouſneſs, and of Perſecuti<g ref="char:EOLhyphen"/>on, and of ſhedding innocent Blood, which was for<g ref="char:EOLhyphen"/>bidden by God and his Prophets in the old Covenant, and by Chriſt and his Apoſtles in the new Covenant, and by them abhorred and cryed out againſt. But what was the End of the <hi>Jews</hi> which followed after that wicked ſpirit, and went from the Lord?</p>
+            <p>And do thoſe called <hi>Chriſtians</hi> think in their Profeſſion of the New Covenant, that they muſt have Liberty in theſe evil things now, which were forbidden
+<pb n="5" facs="tcp:172629:3"/>in the time of the old Law and Covenant? No, no; they are much more forbidden in the new.</p>
+            <p>And the Lord ſaid unto <hi>Ezekiel, That the</hi> Jews <hi>would come and fit before him as the Lord's People, and they would hear his Words, but they will not do them; and with their Mouthes they would ſhew much Love, but their Hearts went after their Covetouſneſs,</hi> Ezek. 33.31.</p>
+            <p>Now will not the Prieſts and Profeſſors of <hi>Chriſten<g ref="char:EOLhyphen"/>dom</hi> hear and ſay the Words of the New Covenant and Goſpel, and appear to ſhew much Zeal and Love for the Words of the New Teſtament, but they will not do them nor practiſe them; for their Hearts and Eyes go after their Covetouſneſs, which is Idolatry.</p>
+            <p>For have not you that profeſs the New Covenant in words, done as they that profeſſed the Old in words, even coveted Goods, Fields, Houſes, and taken by Violence, and Oppreſſed a Man in his Heritage, and Deviſed Iniquity, and wrought Evil upon your Beds, and in the Morning Light have practiſed it, becauſe you had power in your hands?</p>
+            <p>And was not Wo pronounced againſt all ſuch, that profeſſed the Old Covenant, and yet walked contrary to it; and much more againſt all ſuch, as are found in theſe Practices now, who profeſs the New? <hi>Micha</hi> chap. 2.</p>
+            <p>And <hi>Habbakkuk</hi> cryes, <hi>We to him that Covets an Evil</hi> Covetouſneſs <hi>to his Houſe, that he may ſet his Neſt on high, that he may be delivered from the Power of the Evil, &amp;c.</hi> Hab. 2.9. He tells them, <hi>The Stone ſhall cry out of the Wall, and the Beam of the Timber ſhall anſwer it againſt them.</hi>
+            </p>
+            <p>And therefore let ſuch covetous Perſons, that pro<g ref="char:EOLhyphen"/>feſs
+<pb n="6" facs="tcp:172629:4"/>
+               <hi>Chriſtianity,</hi> hearken and hear, if the Stones out of the very Wall do not cry out againſt you, and the Beam of the Timber does not anſwer it?</p>
+            <p>And Chriſt ſaith in <hi>Mark</hi> 7. <hi>That which cometh out of the Man from within his Heart, defileth the Man</hi> (to wit) Evil Thoughts, Adultery, Fornication, Mur<g ref="char:EOLhyphen"/>ders, Theft, Covetouſneſs, Wickedneſs, Deceit, Blaſphemies, Pride, Fooliſhneſs, and an Evil Eye: Now theſe are the Evils that defile men, which the Devil, the Serpent, who is out of the Truth, hath wrought in man's heart, both in <hi>Adam</hi> and <hi>Eve,</hi> and the <hi>Jews,</hi> and the <hi>Chriſtians</hi> that go from God, and diſ<g ref="char:EOLhyphen"/>obey his Voice and Command: For neither God nor Chriſt wrought any of theſe Evil Things in Man in the beginning, nor ſince, who is the Author of all Good. And therefore theſe Evil Things muſt be pur<g ref="char:EOLhyphen"/>ged out of Man by Chriſt's Blood and Baptiſm, and by the Mortification and Circumciſion of the Spirit of God.</p>
+            <p>And Chriſt ſaid unto them (to wit, the <hi>Jews</hi>) <hi>Take heed and beware of</hi> Covetouſneſs; <hi>for a man's Life conſiſts not in the abundance of the things which he doth poſſeſs.</hi>
+            </p>
+            <p>Oh! that all that are called <hi>Chriſtians,</hi> and all peo<g ref="char:EOLhyphen"/>ple, would conſider this bleſſed Doctrine of Chriſt the Heavenly Man; and that they might come to un<g ref="char:EOLhyphen"/>derſtand and know what their Life does conſiſt in; then they would take heed and beware of Covetouſ<g ref="char:EOLhyphen"/>neſs, which is Idolatry, <hi>Luke</hi> 12.15.</p>
+            <p>And the Apoſtle <hi>Paul,</hi> who had the Care of the Churches upon him; he writes to the <hi>Corinthians, Not to keep company with any man that is called a Brother, that
+<pb n="7" facs="tcp:172629:4"/>is a Fornicator, or Covetous, or Idolater, or Railer, or a Drunkard, or an Extortioner;</hi> with ſuch an one they were not ſo much as to eat: For ſuch as profeſſed <hi>Chriſtianity,</hi> and followed ſuch Practices, the Saints were neither to eat nor to keep company with them; for they ſhamed their Profeſſion of <hi>Chriſtianity.</hi>
+            </p>
+            <p>So here the Apoſtles and Saints; the true Church, had a Judgment given them, and did judge out the <hi>Covetous Idolaters, Fornicators, Drunkards, Railers, &amp;c.</hi> from having any Fellowſhip with the Saints, the true Church, not as much as to eat with them, nor to keep company with them of that ſpirit: For he ſaith, <hi>Neither Fornicators, nor Thieves, nor Drunkards, nor Covetous Idolaters, Railers and Extortioners, &amp;c. ſhall in<g ref="char:EOLhyphen"/>berit the Kingdom of God.</hi>
+            </p>
+            <p>And the Apoſtle told the <hi>Corinthians,</hi> that <hi>ſuch were ſome of them, but they were waſhed, ſanctified and juſtified from theſe things, in the Name of the Lord Jeſus Chriſt, and by the Spirit of God.</hi> So theſe were waſhed from their Fornication, Covetouſneſs, Idolatry, Drunken<g ref="char:EOLhyphen"/>neſs, Railing and Extortion, and juſtified in the Name of Jeſus, and by the Spirit of God.</p>
+            <p>So the Apoſtle here doth not ſpeak of the Fornica<g ref="char:EOLhyphen"/>tors, Covetous Idolaters and Extortioners of the World, which were without; for God judgeth ſuch. But the Saints, the Apoſtles and the true Church were to judge them that practiſed ſuch things within the Church, ſhewing the true <hi>Chriſtians Church</hi> had a Pow<g ref="char:EOLhyphen"/>er; and not to keep company nor to eat with ſuch, profeſſing Chriſt, that were of ſuch Practices, know<g ref="char:EOLhyphen"/>ing that the Unrighteous ſhould not inherit the King<g ref="char:EOLhyphen"/>dom of God, nor Drunkards nor Fornicators, Thieves,
+<pb n="8" facs="tcp:172629:5"/>Railers, Extortioners, nor Covetous Idolaters; they that inherit theſe Evils, were not like to inherit the Kingdom of God; for they were defiled, unwaſhed, and not ſanctified nor juſtified, &amp;c. So that if the Saints did keep company, or did eat with ſuch unwaſhed, unſanctified, unjuſtified Perſons, or have Fellowſhip with them, they took the Members of Chriſt and joyned them to an Harlot; for he that is joyned to an Harlot, is one Body; <hi>For two</hi> (ſaith he) <hi>ſhall be one Fleſh.</hi> And therefore the Saints Bodies are the Mem<g ref="char:EOLhyphen"/>bers of Chriſt; God forbid they ſhould be joyned to Harlots, or that they ſhould make them Members of an Harlot. <hi>And he that is joyned to the Lord, is one Spirit:</hi> and the Saints Bodies are the Temples of the Holy Ghoſt, which proceeds from God and Chriſt, and being bought with a Price the Blood of Chriſt, and waſhed, and ſanctified, and juſtified in the Name of Chriſt Jeſus by the Spirit of God, they are to glo<g ref="char:EOLhyphen"/>rifie God in their Bodies, Souls and Spirits, which are God's, which he hath given them to glorifie him with<g ref="char:EOLhyphen"/>al; <hi>Glory to his Name forever.</hi>
+            </p>
+            <p>And therefore all this old Leaven of Fornication, Adultery, Theft, Covetouſneſs, Idolatry, Drunken<g ref="char:EOLhyphen"/>neſs, Revelling, Extortion, and all Unrighteouſneſs, Envy, Malice and Wickedneſs, muſt be purged out, which is the World's God the Serpent hath wrought in, that they may be a new Lump, and keep the Feaſt of Unleavened Bread of Sincerity and Truth: For Chriſt our Paſſover is ſacrifice for us, as you may ſee in 1 <hi>Cor.</hi> 5, &amp; 6. chapters, which was the Practice of the Church in the Apoſtles dayes, and which ſhould be ſo now to keep this Heavenly Paſſover with Unlea<g ref="char:EOLhyphen"/>vened Bread of Sincerity and Truth.</p>
+            <p>
+               <pb n="9" facs="tcp:172629:5"/>
+And further, the Apoſtle tells the Church of <hi>Co<g ref="char:EOLhyphen"/>rinth</hi> in 2 <hi>Cor.</hi> 6. and explains himſelf with a great Care of the Church, that they muſt not be Un<g ref="char:EOLhyphen"/>equally Yoked together with Unbelievers. So this is an Unequal Yoke, to yoke Believers and Unbelie<g ref="char:EOLhyphen"/>vers together; and giveth his Reaſon, and ſaith, <hi>What Fellowſhip hath Righteouſneſs with Unrighteouſneſs? and what Communion hath Light with Darkneſs? and what Concord hath Chriſt with Belial? or what part hath a Believer with an Infidel? and what Agreement hath the Temple of God with Idols?</hi>
+            </p>
+            <p>Now they that go contrary to the Apoſtles Doctrine in theſe things, have loſt their Senſe, and Sight, and Feeling; for here is no Fellowſhip, nor Unity, nor Concord; here is no Agreement, nor no Part with ſuch afore-mentioned, that are out of the Truth, but they are Unequally Yoked with ſuch who are the Temples of the Living God, that joyn with them; they in whom God doth dwell and walk, and he is their God, and they are his People.</p>
+            <p>
+               <hi>Wherefore come out from amongſt them, and be ye ſepa<g ref="char:EOLhyphen"/>rate, ſaith the Lord, and touch not the Unclean Thing, and I will receive you, and I will be a Father unto you, and ye ſhall be my Sons and Daughters, ſaith God Almighty.</hi> Here you may ſee, what the Saints, the Sons and Daugh<g ref="char:EOLhyphen"/>ters of God, are to forſake and not to touch, nor make no agreement with, not be yoked to, but be ſeparated from it, that the Lord God Almighty may receive them.</p>
+            <p>And again, the Apoſtle writes to the <hi>Epheſians,</hi> chap. 4, 5. <hi>That they ſhould put away Lying, and every man ſpeak the Truth to his Neighbour; for they are Members one of another: and him that had ſtolen, ſteal no more, but let
+<pb n="10" facs="tcp:172629:6"/>him labour, working with his Hands the thing that is good. And let no corrupt Communication proceed out of your Mouthes, but that which is good, tending to Edification, which may miniſter Grace to the Hearers: and all Filthi<g ref="char:EOLhyphen"/>neſs, Fooliſh Talking and Jeſting, which was not conve<g ref="char:EOLhyphen"/>nient, was to be put away.</hi> And the Saints, the Church of Chriſt, was not to have any Fellowſhip with ſuch things, the unfruitful Works of Darkneſs, but rather reprove them. <hi>And Fornication, and all Uncleanneſs, and Covetouſneſs, let it not be once named amongſt you, as becometh Saints. For this you know</hi> (to wit, the Saints, the Church of Chriſt) <hi>That no whoremonger, nor Un<g ref="char:EOLhyphen"/>clean Perſon, nor Covetous Man, which is an Idolater</hi> [mark, Covetous, that is an Idolater] <hi>hath any Inhe<g ref="char:EOLhyphen"/>ritance in the Kingdom of Chriſt and of God.</hi> Here the Church of Chriſt had their Knowledge, and had their Judgment to judge out theſe things, that kept people out of the Kingdom of God. And now Mark, if a <hi>co<g ref="char:EOLhyphen"/>vetous man</hi> be an <hi>Idolater,</hi> as the Apoſtle ſaith, then all <hi>covetous men are Idolaters, and ſhall not inherit the King<g ref="char:EOLhyphen"/>dom of God.</hi>
+            </p>
+            <p>And now let all thoſe that are called Prieſts, Teach<g ref="char:EOLhyphen"/>ers, Miniſters and Prophets in <hi>Chriſtendom,</hi> ſee if their Fruits do not declare them to be Covetous, and ſo Ido<g ref="char:EOLhyphen"/>laters, who preach Chriſt and the Apoſtles (and ſeem to have a Zeal for their) words; but how many of them will preach without <hi>Tythes</hi> and <hi>Hire?</hi> and if people will not give it unto them, then to ſpoil their Goods, and caſt them into Priſon, yea, till Death, as many have been, becauſe they would not hold up and feed that I<g ref="char:EOLhyphen"/>dolatrous Spirit of Covetouſneſs in them. Whenas the Apoſtle commands the Church, not ſo much as to have Fellowſhip, nor Company, nor to eat with a Co<g ref="char:EOLhyphen"/>vetous Perſon, which is an Idolater.</p>
+            <p>
+               <pb n="11" facs="tcp:172629:6"/>
+And now, if the Saints, the true Church of Chriſt, muſt not eat, nor keep company with ſuch, then how muſt they hear them, or be compell'd or forc'd to hear ſuch? And knowing that Chriſt ſaid to his Miniſters, whom he ſent forth, <hi>Freely they had received, freely they were to give;</hi> and they were <hi>neither to provide Silver nor Gold, nor Bag nor Scrip; but to enquire, who was wor<g ref="char:EOLhyphen"/>thy of their Meſſage; and what was ſet before them, that they were to eat; and ſuch as were unworthy, that would not receive them and their Meſſage, they were to ſhake the Duſt off their Feet, which ſhould be a Witneſs againſt them at the Day of Judgment.</hi> And the Apoſtles did not caſt thoſe unworthy ones, that would not receive them, and ſet Meat before them, into Priſon, as ſome of your Mini<g ref="char:EOLhyphen"/>ſters do the People of God, becauſe they cannot uphold your Covetous Idolatrous ſpirit, in giving you <hi>Tythes</hi> and <hi>Hire.</hi>
+            </p>
+            <p>And now all you that will not preach Chriſt's &amp; the Apoſtles words, nor pray amongſt people, nor give them Pſalms to ſing, and ſing among them, and bap<g ref="char:EOLhyphen"/>tize Children (as you call it) or ſprinkle them, with<g ref="char:EOLhyphen"/>out the Tenths of peoples increaſe of their Labours, and without the Tenths of the increaſe of their Cattel and Goods, and have Set Wages by the Year for theſe things; are not you the <hi>covetous Idolaters?</hi> yea, &amp; caſt people into Priſon, and ſpoil their Goods, and excom<g ref="char:EOLhyphen"/>municate them whom you do none of theſe works for, neither have they ſet you a work, nor hired you to do any of theſe things for them: For do not moſt people every where generally hire you, &amp; agree with you for ſo much in the year? or do not you make Friends with <hi>great Perſons</hi> to put you into fat Benefices? &amp; inſtead of inquiring <hi>where the worthy people are,</hi> are not your Prieſts
+<pb n="12" facs="tcp:172629:7"/>enquiring, <hi>where is the greateſt Benefice, and moſt Tythes, and In-comes?</hi> And then when you are ſettled, do not you ſpoil the Goods, and caſt into Priſon, ſuch as ne<g ref="char:EOLhyphen"/>ver hired you nor hear you? And is not this contrary to the general Command of Chriſt to his Diſciples, both to the 12. and the 70? <hi>Freely you have received, freely give, &amp;c.</hi> So is it not manifeſt here, that you are <hi>covetous Idolaters</hi> that the Apoſtle ſpeaks againſt, <hi>that ſhall not enter into the Kingdom of God?</hi>
+            </p>
+            <p>For <hi>Peter</hi> in his 2d general Epiſtle, chap. 2. ſpeaks of the falſe Prophets and falſe Teachers, and how <hi>many ſhould follow their pernicious wayes, by reaſon of whom the Truth ſhould be evil ſpoken of;</hi> which Truth the Apoſtles preached freely, as they had received freely, according to the Command of Chriſt. And theſe falſe Prophets and Teachors <hi>through Covetouſneſs ſhould with feigned words make Merchandize of people.</hi> For how of<g ref="char:EOLhyphen"/>ten have the Teachers chang'd their Places and Ways? The Apoſtle compares ſuch with the <hi>old world,</hi> and <hi>So<g ref="char:EOLhyphen"/>dom,</hi> and <hi>fallen Angels, that kept not their Habitation.</hi> And therefore, let the Teachers in <hi>Chriſtendom,</hi> who caſt in<g ref="char:EOLhyphen"/>to Priſon and ſpoil peoples Goods for their Bellies, ex<g ref="char:EOLhyphen"/>amine and ſee if they be not the men.</p>
+            <p>And alſo, the Apoſtle writes to <hi>Timothy</hi> in 2 <hi>Tim.</hi> 3. of ſuch <hi>Covetous prond Boaſters, and falſe Accuſers, and fierce Deſpiſers of them that were good, &amp; which were heady, high-minded, Lovers of Pleaſures more than Lovers of God; that had the Form of Godlineſs</hi> (which was the Form of <hi>Chriſtianity</hi>) <hi>but denyed the Power thereof; from ſuch the Saints,</hi> the true Church, <hi>were to turn away.</hi> For he like<g ref="char:EOLhyphen"/>ned them to <hi>Jannes</hi> and <hi>Jambres, that withſtood</hi> Moſes, <hi>who were men of corrupt minds, and did reſiſt the Truth, and were reprobate concerning the true Faith; theſe led ſuch
+<pb n="13" facs="tcp:172629:7"/>captive who were laten with ſins, and led about with divers luſts, alwayes learning, and were never able to come to the knowledge of the Truth:</hi> And how ſhould they, being deſtitute thereof themſelves, &amp; men of corrupt minds, bring any into the Truth and the Faith, when they are out of the true Faith themſelves, and tell people, <hi>They muſt carry a Body of Sin and Death to the Grave with them;</hi> and others ſay, <hi>They muſt have a Purgatory when they are dead:</hi> And ſuch are Reprobate from the Apoſtles Do<g ref="char:EOLhyphen"/>ctrine and Faith, which is the Victory, and in the dam<g ref="char:EOLhyphen"/>nable Hereſie. But the Apoſtles exhorted the Saints, <hi>to walk in the Light, and the Blood of Jeſus Chriſt ſhould cleanſe them from all Sin.</hi> And the Apoſtle told the Church, <hi>That they were waſhed, cleanſed, ſanctified, and ju<g ref="char:EOLhyphen"/>ſtified, &amp;c.</hi> and this was whilſt they were upon the Earth. And he tells the <hi>Epheſians,</hi> the Saints, <hi>You that were ſometime Darkneſs, now are you Light in the Lord.</hi>
+            </p>
+            <p>And the Apoſtle writes to <hi>Timothy,</hi> 1 <hi>Tim.</hi> 6. <hi>Having Food and Raiment let us therewith be content; and Godli<g ref="char:EOLhyphen"/>neſs with Contentment is great Gain: but they that will be rich, fall into Temptations and Snares, and into many fooliſh and hurtful Luſts, which drown men in Deſtruction and Perdition: For the Love of Money is the Root of all E<g ref="char:EOLhyphen"/>vil, which while ſome coveted after, they have erred from the Faith, &amp; pierced themſelves through with many Sorrows. But thou, O Man of God, flee theſe things, and follow after Righteouſneſs, Godlineſs, Faith, Love, Patience, Meekneſs.</hi> This is the Man of God's Path, and to flee <hi>Covetouſneſs,</hi> and the <hi>Love of Money,</hi> and ſuch as make Gain their Godlineſs; for ſuch are deſtitute of the Truth: and this ſhould be the Practice of all true <hi>Chriſtians</hi> now.</p>
+            <p>And do not the men of the World, with the Cove<g ref="char:EOLhyphen"/>tous Prieſts and Teachers, and others, fly after Riches
+<pb n="14" facs="tcp:172629:8"/>and Money, inſtead of flying from it? and after Gain, ſuppoſing it to be Godlineſs? and is not this a Mark, that ſuch have erred from the true Faith, and are fallen into hurtful Luſts, which drown them in Deſtruction and Perdition, by falling into a Temptation &amp; a Snare, in coveting after Riches &amp; the Love of Money, which is the Root of all Evil. Hath not the Root of this E<g ref="char:EOLhyphen"/>vil been manifeſt by the Teachers of the World and o<g ref="char:EOLhyphen"/>ther People? the Prieſts and Teachers by deſtroying People for their Bellies; and the People by coveting and encroaching other Peoples Goods, and ſo deſtroy their own and others too: the Teachers and others ſhewing, that they are err'd from the Faith which <hi>Chriſt</hi> is the Author and Finiſher of, who ſaith, <hi>Freely you have received, freely give;</hi> and, <hi>Beware of Covetouſneſs.</hi> For the Apoſtle ſaith, <hi>A Biſhop muſt not be a Striker, nor greedy of Filthy Lucre, nor a Brawler, nor Covetous; but he muſt hold faſt the faithful word, and be blameleſs:</hi> and ſuch Biſhops and Elders, Teachers and Deacons were <hi>Timothy</hi> and <hi>Titus</hi> to ordain, as you may ſee in 1 <hi>Tim.</hi> 3. and <hi>Titus</hi> 1. And they were to hold the <hi>Myſtery of Faith in a pure Conſcience:</hi> And therefore how can any Biſhops or Teachers, Elders or Deacons be the Succee<g ref="char:EOLhyphen"/>ders of them, that the <hi>Apoſtles,</hi> and <hi>Timothy,</hi> and <hi>Titus</hi> ordained, that are Strikers, Perſecutors, Covetous and greedy of filthy Lucre, yea, and caſt People into Priſon whom they do not over-ſee, nor teach, nor preach to? are not ſuch erred from the Faith, the <hi>Evil Beaſts</hi> and <hi>Slow-belies,</hi> that ſuppoſe Gain to be Godlineſs, that ſerve not the Lord Jeſus Chriſt, but their own Bellies, which the Apoſtle bid <hi>Titus, Rebuke ſuch ſharply.</hi> And now you may ſee ſuch as coveted to be rich, and were Per<g ref="char:EOLhyphen"/>ſecutors and Strikers, and greedy of filthy Lucre, ſuch
+<pb n="15" facs="tcp:172629:8"/>
+               <hi>Timothy</hi> and <hi>Titus</hi> were not to ordain thoſe Biſhops and Teachers, Elders and Deacons; for ſuch were erred from the Faith; then they were not like to hold the Myſtery of Faith in a pure Conſcience, which Chriſt is the Author and Finiſher of, who ſaith, <hi>Freely you have received, freely give.</hi> For the Apoſtle in <hi>Act.</hi> 20. ſaith, that <hi>he was pure from the Blood of all men;</hi> he took the Church to record, <hi>that he had coveted no man's Silver, Gold nor Apparel;</hi> and ſaid, <hi>that the Church knew them<g ref="char:EOLhyphen"/>ſelves, that his Hands had miniſtred unto his Neceſſities, &amp; them that were with him.</hi> Now here was a clear free Mi<g ref="char:EOLhyphen"/>niſter of Chriſt. And now let the Biſhops, Prieſts and Teachers, &amp;c. in <hi>chriſtendom,</hi> try themſelves &amp; their Practice by the Scripture, and the Apoſtle's Example, and the Command of Chriſt, who ſaith, <hi>Freely you have received, freely give.</hi> Can you ſay, That you have co<g ref="char:EOLhyphen"/>veted no man's Silver, Gold nor Apparel, either of your <hi>own people</hi> nor <hi>others</hi> whom you have not preacht to? Can you ſay, You are clear from the Blood of all men, as the Apoſtle ſaid, and call the <hi>Chriſtians</hi> to record? If you do ſay, You are; will not the Goals teſtifie againſt you, and the Courts, and your own Hearts and Con<g ref="char:EOLhyphen"/>ſciences alſo will witneſs againſt you? And how ma<g ref="char:EOLhyphen"/>ny have been perſecuted and priſon'd by you till Death for not giving you Money &amp; Tythes, whom you do no work for! what perſecuting and haling before Courts have you made! You cannot call the <hi>Chriſtians</hi> to re<g ref="char:EOLhyphen"/>cord, <hi>that you are clear from the Blood of all men, that you Covet no man's Silver, Gold nor Apparel,</hi> and that <hi>you la<g ref="char:EOLhyphen"/>bour with your Hands for your own Neceſſities &amp; others,</hi> and that <hi>you are not greedy of filthy Lucre, and are not Strikers and Perſecutors, nor are not them that do covet after Money and the Riches of this World;</hi> &amp; that <hi>you do not give freely,</hi>
+               <pb n="16" facs="tcp:172629:9"/>as Chriſt commands, manifeſting that you have not received freely from him; but that you are erred from the Faith of Chriſt (by which the Apoſtles lived) and from the Converſation of the Saints in the primitive times. For the Apoſtle ſaith to the Church, <hi>Let your Converſation be without Covetouſneſs, and be content with ſuch things as you have.</hi> And the Lord ſaith, <hi>I will ne<g ref="char:EOLhyphen"/>ver leave thee nor forſake thee,</hi> Heb. 13.5. &amp; Joſh. 1.5. And ſo, this ſhould be the Converſation of all that pro<g ref="char:EOLhyphen"/>feſs Chriſt Jeſus, and then they would covet after the beſt Gifts, and not after the earthly things, and follow after Love and Charity.</p>
+            <p>And the Apoſtle ſaith, <hi>Be ye Followers of me, even as I am alſo of Chriſt.</hi> And ſo it is clear the Church of the true <hi>Chriſtians</hi> is not to follow any Teacher, but as he followeth Chriſt in his Life, Faith, Practice and Do<g ref="char:EOLhyphen"/>ctrine. And if they make a Profeſſion of the Form of Godlineſs, without the Power, and Spirit, and Truth they were to turn away from them, and not to follow them: But as every one hath received Chriſt Jeſus, ſo walk in him in Humility.</p>
+            <closer>
+               <signed>G. F.</signed>
+               <date>The 5th Moneth, 1679.</date>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
